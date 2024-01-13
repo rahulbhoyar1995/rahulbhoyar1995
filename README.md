@@ -1,6 +1,6 @@
 Hi there! 👋
 
-## I'm Rahul Bhoyar, a passionate AI and Software developer from Berlin.
+## I'm **Rahul Bhoyar**, a passionate **AI** and **Software Developer** from Berlin.
 
 ## About Me
 
@@ -9,7 +9,7 @@ Hi there! 👋
 - 👯 I’m looking to collaborate on Generative AI projects.
 - 💬 Ask me about [Your Expertise].
 - 📫 How to reach me: [Your Contact Information].
-- 😄 Pronouns: [Your Pronouns].
+
 
 ## Projects
 
