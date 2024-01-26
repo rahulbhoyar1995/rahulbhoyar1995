@@ -1,6 +1,6 @@
 Hi there! 👋
 
-## I'm **Rahul Bhoyar**, a passionate **AI** and **Software Developer** from Berlin.
+## I'm **Rahul Bhoyar**, a passionate **AI** and **Software Proffessional** from Berlin.
 
 ## About Me
 
