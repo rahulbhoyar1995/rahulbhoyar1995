@@ -5,7 +5,8 @@ Hi there! 👋
 ## About Me
 
 - 🔭 I’m currently a student at **Internatinal University of Applied Sciences, Berlin**.
-- 🔭I am currently pursuing **MBA** in **Artificial Intelligence**.
+- 🔭 I am currently pursuing **MBA** in **Artificial Intelligence**.
+- 🔭 Working as **Software Engineer** in **Almedia GmBH** at **Berlin (Germany)**.
 - 🌱 I’m currently working on several Generative AI projects.
 - 👯 I’m looking to collaborate on Generative AI projects.
 
