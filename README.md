@@ -19,7 +19,7 @@ Hi there! 👋
 - Geographical Data Analysis : Folium, Geopandas
 - Data Visualisation : Matplotlib, Seaborn, Plotly
 - Machine Leanring Libraries : Sklearn
-- Deep learning Libraries : Tensorflow, PyTorch
+- Deep Learning Libraries : Tensorflow, PyTorch
 - Containerisation Tools : Docker and Kubernetes
 - Cloud : Microsoft Azure, AWS Services
 
