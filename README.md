@@ -10,8 +10,7 @@ Hi there! 👋
 - 👯 I’m looking to collaborate on Generative AI projects.
 
 ## Skills
-L
-- AI Tech stack : Generative AI, LLMs, Natural Language Processing, Deep Learning, Machine Learning, Data Science, Data Analytics
+**- AI Tech stack : **Generative AI, LLMs, Natural Language Processing, Deep Learning, Machine Learning, Data Science, Data Analytics
 - Programming Languages: Python, SQL, R
 - Web Technologies (Back-end): Django, Django REST, Flask
 - Web Technologies (Front-end): HTML, CSS, JavaScript.
