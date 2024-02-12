@@ -27,7 +27,7 @@ Hi there! 👋
 
 🧰 Toolkit 
 ----------
-| Toolkit | | | | |
+
 | --- | --- | --- | --- | --- |
 | ![Python](https://img.shields.io/badge/Python-0d22a4?style=for-the-badge&logo=python&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Matplotlib](https://img.shields.io/badge/matplotlib-327ac6?style=for-the-badge&logo=data:matplotlib.org/_static/images/documentation&logoColor=white) |
 | ![Plotly](https://img.shields.io/badge/Plotly-1c92cf?style=for-the-badge&logo=plotly&logoColor=white) | ![SpaCy](https://img.shields.io/badge/spacy-55c9c2?style=for-the-badge&logo=spacy&logoColor=white) | ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/hugging_face-%23FFE953.svg?style=for-the-badge&logo=data:https://huggingface.co/front/assets/huggingface_logo-noborder&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
