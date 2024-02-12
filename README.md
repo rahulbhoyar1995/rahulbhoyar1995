@@ -2,6 +2,7 @@ Hi there! 👋
 
 ## I'm **Rahul Bhoyar**, a passionate **AI** and **Software Proffessional** from Berlin.
 
+Website :  [Link Text](https://www.codeaiwithrahul.com/)
 ## About Me
 
 - 🔭 I’m currently a student at **Internatinal University of Applied Sciences, Berlin**.
