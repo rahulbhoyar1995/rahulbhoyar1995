@@ -24,7 +24,6 @@ Hi there! 👋
 - Containerisation Tools : Docker and Kubernetes
 - Cloud : Microsoft Azure, AWS Services
 
-## Tools 
 
 🧰 Toolkit 
 ----------
