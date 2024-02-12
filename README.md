@@ -3,6 +3,7 @@ Hi there! 👋
 ## I'm **Rahul Bhoyar**, a passionate **AI** and **Software Proffessional** from Berlin.
 
 **Website**:  [www.codeaiwithrahul.com](https://www.codeaiwithrahul.com/)
+
 **LinkedIn**:  [Rahul Bhoyar LinkedIn Profile](www.linkedin.com/in/rahul-bhoyar-1a04a7215)
 
 ## About Me
