@@ -4,7 +4,7 @@ Hi there! 👋
 
 **Website**:  [www.codeaiwithrahul.com](https://www.codeaiwithrahul.com/)
 
-**LinkedIn**:  [Rahul Bhoyar LinkedIn Profile](www.linkedin.com/in/rahul-bhoyar-1a04a7215)
+**LinkedIn**:  [Rahul Bhoyar LinkedIn Profile](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215)
 
 ## About Me
 
