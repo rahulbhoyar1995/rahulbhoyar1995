@@ -17,7 +17,8 @@ Hi there! 👋
 ## Skills
 - AI Tech stack : Generative AI, LLMs, Natural Language Processing, Deep Learning, Machine Learning, Data Science, Data Analytics
 - Programming Languages: Python, SQL, R
-- Web Technologies (Back-end): Django, Django REST, Flask
+- Deployment Tools : HuggingFace, Streamlit Cloud, Heroku
+- Web Technologies (Back-end): Django, Django REST, Flask, Streamlit, Gradio
 - Web Technologies (Front-end): HTML, CSS, JavaScript.
 - Web Scraping : Selenium, Scrappy, Beautiful Soup
 - Data Analysis : Pandas, Numpy
