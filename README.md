@@ -2,9 +2,13 @@ Hi there! 👋
 
 ## I'm **Rahul Bhoyar**, a passionate **AI** and **Software Proffessional** from Berlin.
 
-**Website**:  [www.codeaiwithrahul.com](https://www.codeaiwithrahul.com/)
-
 **LinkedIn**:  [Rahul Bhoyar LinkedIn Profile](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215)
+
+**Kaggle**:  [Rahul Bhoyar Kaggle Profile](https://www.kaggle.com/rrb8695)
+
+**HuggingFace**:  [Rahul Bhoyar HuggingFace Profile](https://huggingface.co/rahul-bhoyar-1995)
+
+**Medium**:  [Rahul Bhoyar Medium Profile](https://medium.com/@rahulbhoyaroffice)
 
 ## About Me
 
