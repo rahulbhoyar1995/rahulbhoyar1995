@@ -4,10 +4,11 @@ Hi there! 👋
 
 | Platform   | Profile Link                                      | Logo                                          |
 |------------|---------------------------------------------------|-----------------------------------------------|
-| LinkedIn   | [Rahul Bhoyar LinkedIn Profile](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 50px;"/> |
-| Kaggle     | [Rahul Bhoyar Kaggle Profile](https://www.kaggle.com/rrb8695) | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" style="width: 50px;"/> |
-| HuggingFace| [Rahul Bhoyar HuggingFace Profile](https://huggingface.co/rahul-bhoyar-1995) | <img src="https://huggingface.co/front/assets/hugging_face_logo.svg" alt="HuggingFace Logo" style="width: 50px;"/> |
-| Medium     | [Rahul Bhoyar Medium Profile](https://medium.com/@rahulbhoyaroffice) | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Medium_logo.svg" alt="Medium Logo" style="width: 50px;"/> |
+| LinkedIn   | [Rahul Bhoyar LinkedIn Profile](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 100px;"/> |
+| Kaggle     | [Rahul Bhoyar Kaggle Profile](https://www.kaggle.com/rrb8695) | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" style="width: 100px;"/> |
+| HuggingFace| [Rahul Bhoyar HuggingFace Profile](https://huggingface.co/rahul-bhoyar-1995) | <img src="https://huggingface.co/favicon.ico" alt="HuggingFace Logo" style="width: 100px;"/> |
+| Medium     | [Rahul Bhoyar Medium Profile](https://medium.com/@rahulbhoyaroffice) | <img src="https://miro.medium.com/fit/c/256/256/1*BF6X8mwUboQz8mSdz5HNcw.png" alt="Medium Logo" style="width: 100px;"/> |
+
 
 
 ## About Me
