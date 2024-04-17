@@ -21,11 +21,11 @@ Hi there! 👋
 | Medium     | <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Medium Logo" style="width: 50px;"/> | [Rahul Bhoyar Medium Profile](https://medium.com/@rahulbhoyaroffice) |
 
 
-## Technial Skills Stack
+## Technical Skills Stack
 - AI Tech stack : Generative AI, LLMs, Natural Language Processing, Deep Learning, Machine Learning, Data Science, Data Analytics
 - Programming Languages: Python, SQL, R
 - Deployment Tools : HuggingFace, Streamlit Cloud, Heroku
-- Web Technologies (Back-end): Django, Django REST, Flask, Streamlit, Gradio
+- Web Technologies (Back-end): Streamlit, Django, Django REST, Flask, Gradio
 - Web Technologies (Front-end): HTML, CSS, JavaScript.
 - Web Scraping : Selenium, Scrappy, Beautiful Soup
 - Data Analysis : Pandas, Numpy
@@ -34,7 +34,9 @@ Hi there! 👋
 - Machine Leanring Libraries : Sklearn
 - Deep Learning Libraries : Tensorflow, PyTorch
 - Containerisation Tools : Docker and Kubernetes
-- Cloud : Microsoft Azure, AWS Services
+- Cloud : Google Cloud, Microsoft Azure, AWS
+- Repo Management : Git, Gitnash, Github, Gitlab, Bitbucket
+- OS System Environment : Windows, Linux, iOS
 
 
 🧰 Toolkit 
