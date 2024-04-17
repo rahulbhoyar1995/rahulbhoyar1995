@@ -2,12 +2,13 @@ Hi there! 👋
 
 ## I'm **Rahul Bhoyar**, a passionate **AI** and **Software Proffessional** from Berlin.
 
-| Platform   | Profile Link                                      |
-|------------|---------------------------------------------------|
-| LinkedIn   | [Rahul Bhoyar LinkedIn Profile](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215) |
-| Kaggle     | [Rahul Bhoyar Kaggle Profile](https://www.kaggle.com/rrb8695) |
-| HuggingFace| [Rahul Bhoyar HuggingFace Profile](https://huggingface.co/rahul-bhoyar-1995) |
-| Medium     | [Rahul Bhoyar Medium Profile](https://medium.com/@rahulbhoyaroffice) |
+| Platform   | Profile Link                                      | Logo                                          |
+|------------|---------------------------------------------------|-----------------------------------------------|
+| LinkedIn   | [Rahul Bhoyar LinkedIn Profile](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215) | ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png) |
+| Kaggle     | [Rahul Bhoyar Kaggle Profile](https://www.kaggle.com/rrb8695) | ![Kaggle Logo](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png) |
+| HuggingFace| [Rahul Bhoyar HuggingFace Profile](https://huggingface.co/rahul-bhoyar-1995) | ![HuggingFace Logo](https://huggingface.co/front/assets/hugging_face_logo.svg) |
+| Medium     | [Rahul Bhoyar Medium Profile](https://medium.com/@rahulbhoyaroffice) | ![Medium Logo](https://upload.wikimedia.org/wikipedia/commons/2/27/Medium_logo.svg) |
+
 
 ## About Me
 
