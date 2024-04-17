@@ -4,10 +4,10 @@ Hi there! 👋
 
 | Platform   | Logo                                                                                                         | Profile Link                                      |
 |------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
-| LinkedIn   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 100px;"/> | [Rahul Bhoyar LinkedIn Profile](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215) |
-| Kaggle     | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" style="width: 100px;"/> | [Rahul Bhoyar Kaggle Profile](https://www.kaggle.com/rrb8695) |
-| HuggingFace| <img src="https://huggingface.co/favicon.ico" alt="HuggingFace Logo" style="width: 100px;"/>                  | [Rahul Bhoyar HuggingFace Profile](https://huggingface.co/rahul-bhoyar-1995) |
-| Medium     | <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Medium Logo" style="width: 100px;"/> | [Rahul Bhoyar Medium Profile](https://medium.com/@rahulbhoyaroffice) |
+| LinkedIn   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 50px;"/> | [Rahul Bhoyar LinkedIn Profile](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215) |
+| Kaggle     | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" style="width: 50px;"/> | [Rahul Bhoyar Kaggle Profile](https://www.kaggle.com/rrb8695) |
+| HuggingFace| <img src="https://huggingface.co/favicon.ico" alt="HuggingFace Logo" style="width: 50px;"/>                  | [Rahul Bhoyar HuggingFace Profile](https://huggingface.co/rahul-bhoyar-1995) |
+| Medium     | <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Medium Logo" style="width: 50px;"/> | [Rahul Bhoyar Medium Profile](https://medium.com/@rahulbhoyaroffice) |
 
 
 
