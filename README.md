@@ -2,12 +2,12 @@ Hi there! 👋
 
 ## I'm **Rahul Bhoyar**, a passionate **AI** and **Software Proffessional** from Berlin.
 
-| Platform   | Profile Link                                      | Logo                                          |
-|------------|---------------------------------------------------|-----------------------------------------------|
-| LinkedIn   | [Rahul Bhoyar LinkedIn Profile](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 100px;"/> |
-| Kaggle     | [Rahul Bhoyar Kaggle Profile](https://www.kaggle.com/rrb8695) | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" style="width: 100px;"/> |
-| HuggingFace| [Rahul Bhoyar HuggingFace Profile](https://huggingface.co/rahul-bhoyar-1995) | <img src="https://huggingface.co/favicon.ico" alt="HuggingFace Logo" style="width: 100px;"/> |
-| Medium     | [Rahul Bhoyar Medium Profile](https://medium.com/@rahulbhoyaroffice) | <img src="https://miro.medium.com/fit/c/256/256/1*BF6X8mwUboQz8mSdz5HNcw.png" alt="Medium Logo" style="width: 100px;"/> |
+| Platform   | Logo                                                                                                         | Profile Link                                      |
+|------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| LinkedIn   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 100px;"/> | [Rahul Bhoyar LinkedIn Profile](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215) |
+| Kaggle     | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" style="width: 100px;"/> | [Rahul Bhoyar Kaggle Profile](https://www.kaggle.com/rrb8695) |
+| HuggingFace| <img src="https://huggingface.co/favicon.ico" alt="HuggingFace Logo" style="width: 100px;"/>                  | [Rahul Bhoyar HuggingFace Profile](https://huggingface.co/rahul-bhoyar-1995) |
+| Medium     | <img src="https://icon-library.com/images/medium-icon/medium-icon-10.jpg" alt="Medium Logo" style="width: 100px;"/> | [Rahul Bhoyar Medium Profile](https://medium.com/@rahulbhoyaroffice) |
 
 
 
