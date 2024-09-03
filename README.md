@@ -23,6 +23,7 @@ Hi there! 👋
 ## Technical Skills Stack
 - AI Tech stack : Generative AI, LLMs, Natural Language Processing, Deep Learning, Machine Learning, Data Science, Data Analytics
 - Programming Languages: Python, SQL, R
+- GenAI Tech Stack :LangChain, LlamaIndex, OpenAI APIs, Vector Databases
 - Deployment Tools : HuggingFace, Streamlit Cloud, Heroku
 - Web Technologies (Back-end): Streamlit, Django, Django REST, Flask, Gradio
 - Web Technologies (Front-end): HTML, CSS, JavaScript.
