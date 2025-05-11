@@ -135,7 +135,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 - 📧 Email: rahulbhoyaroffice@gmail.com
 - 💼 LinkedIn: [Rahul Bhoyar](https://www.linkedin.com/in/rahul-bhoyar-1a04a7215)
-- 🌐 Portfolio: [Coming Soon]()
+- 🌐 Portfolio: [Rahul Bhoyar Portfolio](https://rahulbhoyar.com/)
 
 ---
 
