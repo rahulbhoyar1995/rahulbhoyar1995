@@ -1,6 +1,6 @@
 # 🚀 **Rahul Bhoyar**
 
-**AI & Software Professional | Generative AI Specialist | AI Engineer at TU Berlin | MBA in Artificial Intelligence**
+**AI & Software Professional | Generative AI Specialist | MBA in Artificial Intelligence**
 
 ---
 
