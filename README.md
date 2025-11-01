@@ -10,7 +10,7 @@ I’m an **AI & Software Professional** with 8+ years of experience across **Ful
 
 My career began with building scalable backend & frontend systems, but for the last five years I’ve focused deeply on **AI, NLP, Deep Learning, Generative AI, and Agentic AI**.
 
-At **Technische Universität Berlin (TU Berlin)**, I lead research in **Generative AI, Multi-agent Systems, and Transformer-based architectures**, applying frameworks like **LangGraph, GraphRAG, and multi-modal reasoning**.
+Currently, I lead research in **Generative AI, Multi-agent Systems, and Transformer-based architectures**, applying frameworks like **LangGraph, GraphRAG, and multi-modal reasoning**.
 
 I’ve designed and deployed **production-grade AI solutions** across industries including **Education, LegalTech, Healthcare, Finance, and Research**, with recent focus on:
 
