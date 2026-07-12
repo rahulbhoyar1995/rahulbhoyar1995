@@ -119,6 +119,8 @@ My strength lies in combining **hands-on AI system design** with **cross-functio
 
 <img src="https://streak-stats.demolab.com/?user=rahulbhoyar1995&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulbhoyar1995&theme=tokyo-night&hide_border=true" width="90%" alt="Contribution Activity Graph" />
+
 </div>
 
 ---
