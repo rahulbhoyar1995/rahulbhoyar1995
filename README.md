@@ -114,8 +114,8 @@ My strength lies in combining **hands-on AI system design** with **cross-functio
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulbhoyar1995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulbhoyar1995&layout=compact&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages" />
+<img src="https://github-readme-stats-rahul-bhoyar.vercel.app/api?username=rahulbhoyar1995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-rahul-bhoyar.vercel.app/api/top-langs/?username=rahulbhoyar1995&layout=compact&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=rahulbhoyar1995&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
